@@ -1,4 +1,4 @@
--- Initial
+-- initial
 DROP TABLE IF EXISTS corrections;
 DROP TABLE IF EXISTS users;
 DROP TABLE IF EXISTS projects;
